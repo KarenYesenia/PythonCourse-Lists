@@ -147,7 +147,7 @@ words = [
   'eating',
   'matter',
   'truth',
-  'disobedience'
+  'disobedience',
   'matter'
 ]
 ```
