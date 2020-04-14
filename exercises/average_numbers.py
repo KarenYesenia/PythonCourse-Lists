@@ -4,3 +4,6 @@ print(sum(numbers))
 
 average = sum(numbers)/len(numbers)
 print(average)
+
+
+#Textiando
